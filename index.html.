@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cypron Tech Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cypron Tech Portfolio — Edited and credited to Supreme Lord Cypron</h1>
+    <p>Welcome to my portfolio showcasing my tech projects.</p>
+    <ul>
+        <li>Project One</li>
+        <li>Project Two</li>
+        <li>Project Three</li>
+        <li>Project Four</li>
+        <li>Project Five</li>
+        <li>Project Six</li>
+    </ul>
+    <p>Join my <a href="#">WhatsApp Channel</a></p>
+    <footer>© 2025 Cypron Tech Portfolio — Thank you!</footer>
+</body>
+</html>
